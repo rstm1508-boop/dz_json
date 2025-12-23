@@ -22,7 +22,7 @@ def generate_report(json_file_path):
     return report
 
 
-# 
+#
 if __name__ == "__main__":
     result = generate_report('tasks.json')
     print(result)
