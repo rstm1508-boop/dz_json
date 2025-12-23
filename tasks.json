@@ -1,0 +1,6 @@
+[
+    {"task": "Fix bugs", "assignee": "Анна", "status": "completed"},
+    {"task": "Develop feature", "assignee": "Борис", "status": "in progress"},
+    {"task": "Code review", "assignee": "Анна", "status": "completed"},
+    {"task": "Write tests", "assignee": "Виктория", "status": "completed"}
+]
